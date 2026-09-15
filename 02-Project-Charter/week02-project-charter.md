@@ -10,14 +10,17 @@
 ---
 ## Project Title
 RCHN Patient Intake and Scheduling System
+
 ---
 ## Project Sponsor
 Executive Director of Operations, Riverside Community Health Network (RCHN)
+
 ---
 ## Business Need
 Problem: RCHN is relying on an aging scheduling and check-in system across its six clinics that is outdated, slow, and hard for staff to use. Because the platform is past its prime, it creates daily frustrations for employees, leads to messy or inconsistent scheduling practices between the different locations, and causes unnecessary bottlenecks that slow down patient check-ins.
 
 Why it matters: Replacing it is necessary to give staff a reliable tool that actually works, cut down on daily frustration, and make sure every clinic runs smoothly so patients get the care they need without unnecessary delays.
+
 ---
 ## Purpose and High-Level Scope
 Purpose: To replace RCHN's aging, inconsistent scheduling and check-in platform across all six clinic locations with a modern, reliable system that reduces staff friction and speeds up patient check-ins.
