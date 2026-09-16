@@ -13,7 +13,7 @@ RCHN Patient Intake and Scheduling System
 
 ---
 ## Project Sponsor
-Executive Director of Operations, Riverside Community Health Network (RCHN)
+Marcus Webb: Executive Director of Operations, Riverside Community Health Network (RCHN)
 
 ---
 ## Business Need
