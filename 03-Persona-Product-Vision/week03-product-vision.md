@@ -1,5 +1,5 @@
 # User Persona and Product Vision: RCHN Patient Intake and Scheduling System
-**Consultant:** Arianna Marie McGhee
+**Consultant:** Arianna McGhee
 **Role:** Associate Consultant, Product Manager, NovaTech Consulting
 **Engagement:** Riverside Community Health Network (RCHN)
 **Date:** September 16, 2026
@@ -35,7 +35,7 @@ For IT support staff who receive 20+ intake and scheduling tickets a day, a unif
 ---
 
 ### Rationale
-For this product vision, I focused on the IT support staff because the RCHN research findings highlight that staff members are constantly dealing with system fragmentation—specifically, not knowing if appointments saved properly, resulting in double bookings, and having to manually re-enter data across multiple screens. This creates a massive daily headache, leading to over 20+ scheduling and intake support tickets a day. By introducing a unified scheduling system, the core problem of unconfirmed appointment saves and clunky workflows gets resolved at the root. The intended outcome—reducing recurring support requests so IT staff can spend more time on higher-priority work—directly connects to business value for RCHN by cutting down administrative waste, lowering frustration across the clinics, and letting internal technical resources focus on improving the network rather than constantly fixing basic scheduling glitches.
+For this product vision, I focused on the IT support staff because the RCHN research findings highlight that staff members are constantly dealing with system fragmentation specifically, not knowing if appointments saved properly, resulting in double bookings, and having to manually re-enter data across multiple screens. This creates a massive daily headache, leading to over 20+ scheduling and intake support tickets a day. By introducing a unified scheduling system, the core problem of unconfirmed appointment saves and clunky workflows gets resolved at the root. The intended outcome is reducing recurring support requests. IT staff can spend more time on higher-priority work—directly connects to business value for RCHN by cutting down administrative waste, lowering frustration across the clinics, and letting internal technical resources focus on improving the network rather than constantly fixing basic scheduling glitches.
 
 ---
 *NovaTech Consulting | IT 3310 | Governors State University | Fall 2026*
