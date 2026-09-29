@@ -1,9 +1,10 @@
 # Stakeholder Register: RCHN Patient Intake and Scheduling System
 
-**Consultant:** Arianna McGhee
-**Role:** Product Manager, NovaTech Consulting
-**Engagement:** Riverside Community Health Network (RCHN)
-**Date:** September 29, 2026
+
+**Consultant:** Arianna McGhee. 
+**Role:** Product Manager, NovaTech Consulting. 
+**Engagement:** Riverside Community Health Network (RCHN). 
+**Date:** September 29, 2026. 
 
 ---
 
