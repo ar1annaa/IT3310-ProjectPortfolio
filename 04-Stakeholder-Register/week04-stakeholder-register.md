@@ -3,7 +3,6 @@
 **Role:** Product Manager, NovaTech Consulting
 **Engagement:** Riverside Community Health Network (RCHN)
 **Date:** September 29, 2026
-
 ---
 
 ## Stakeholder Entries
