@@ -1,7 +1,11 @@
 # Project Plan Foundation: RCHN Patient Intake and Scheduling System
-**Consultant:** Arianna Marie McGhee
+
+**Consultant:** Arianna McGhee
+
 **Role:** Associate Consultant, Project Manager, NovaTech Consulting
+
 **Engagement:** Riverside Community Health Network (RCHN)
+
 **Date:** September 24, 2026
 
 ---
@@ -13,9 +17,9 @@
 * Appointment scheduling system replacement
 * Staff training for the new system at all six locations
 * Initial rollout support for 90 days post-launch
+* Patient-facing online scheduling portal
 
 ### Out of Scope, Phase One
-* Patient-facing online scheduling portal
 * Billing system integration with the new scheduling data
 * Executive reporting dashboard for clinic leadership
 * Mobile application for clinic staff
@@ -56,7 +60,11 @@ An established constraint supported by the scenario is that the project is stric
 ---
 
 ## Planning Foundation Synthesis
-Deciding to officially mark the custom executive reporting dashboard as out of scope for phase one was the most difficult call to make this week, as I knew clinic leadership wanted high-level analytics immediately, but drawing that strict line was essential to prevent feature creep across all six RCHN facilities. Defining these boundaries shifted my perspective from looking at the project as an open-ended tech upgrade to seeing it as a disciplined operational rollout where schedule, resources, and technical dependencies are tightly connected. If planning areas like our assumption about clinic internet infrastructure or staff availability turn out to be unrealistic, we could face severe deployment bottlenecks or disrupt daily patient care during peak hours. Ultimately, my decision to deploy the intake and scheduling system simultaneously across all six clinics while keeping staff training mandatory heavily drives our future resource plan and schedule, requiring every upcoming task and training slot to be meticulously scaled to support all facilities at once.
+Deciding to officially mark the custom executive reporting dashboard as out of scope for phase one was the most difficult call to make this week, as I knew clinic leadership wanted high-level analytics immediately, but drawing that strict line was essential to prevent feature creep across all six RCHN facilities. 
+
+Defining these boundaries shifted my perspective from looking at the project as an open-ended tech upgrade to seeing it as a disciplined operational rollout where schedule, resources, and technical dependencies are tightly connected. If planning areas like our assumption about clinic internet infrastructure or staff availability turn out to be unrealistic, we could face severe deployment bottlenecks or disrupt daily patient care during peak hours.
+
+Ultimately, my decision to deploy the intake and scheduling system simultaneously across all six clinics while keeping staff training mandatory heavily drives our future resource plan and schedule, requiring every upcoming task and training slot to be meticulously scaled to support all facilities at once.
 
 ---
 *NovaTech Consulting | IT 3310 | Governors State University | Fall 2026*
