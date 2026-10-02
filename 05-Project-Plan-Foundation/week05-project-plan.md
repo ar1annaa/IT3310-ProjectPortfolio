@@ -33,10 +33,12 @@ The executive reporting dashboard for clinic leadership is out of scope because 
 
 ### Objective 1
 By milestone 10, NovaTech Consulting will deploy the patient intake and appointment scheduling system across all six RCHN clinic locations, which will be verified by 100% operational status in each facility once deployed.
+
 **Connection to Product Vision:** This objective is informed by the product vision because replacing the aging legacy software ensures staff across all six locations have a reliable, uniform platform that eliminates daily scheduling bottlenecks and streamlines patient check-ins.
 
 ### Objective 2
 By milestone 11, front desk staff and clinic managers across all six RCHN clinics will successfully complete mandatory system training, which will be verified by 90% or higher user satisfaction ratings on post-training feedback surveys.
+
 **Connection to Product Vision:** This objective is informed by the product vision because hands-on training and a smooth transition plan directly address user friction, ensuring employees feel supported and confident using the new tool without check-in delays.
 
 ---
@@ -45,16 +47,19 @@ By milestone 11, front desk staff and clinic managers across all six RCHN clinic
 
 ### Constraint 1
 An established constraint supported by the scenario is that the project must be deployed and completed across all six RCHN clinic locations.
+
 **Effect on Planning:** This constraint affects scope and resources because every phase-one activity, training session, and rollout step must account for and scale across all six facilities simultaneously rather than rolling out incrementally.
 
 ### Constraint 2
 An established constraint supported by the scenario is that the project is strictly limited to replacing the legacy scheduling and intake system.
+
 **Effect on Planning:** This constraint affects scope and cost because it establishes firm boundaries preventing feature creep such as mobile staff apps or executive reporting dashboards which protects the project budget and timeline and prevents overhauling.
 
 ---
 
 ## Assumptions
 * **Assumption 1:** We are assuming that all six RCHN clinic locations currently have reliable high-speed internet access capable of supporting a cloud-based intake and scheduling platform. If this is wrong, then the technical implementation schedule and hardware budget will need to change to account for local infrastructure upgrades before deployment.
+
 * **Assumption 2:** We are assuming that clinic management will release front desk staff for mandatory training without disrupting daily patient care operations. If this is wrong, then our training schedule and resource plan will need to change to include phased or after-hours training sessions.
 
 ---
