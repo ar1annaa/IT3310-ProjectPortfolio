@@ -1,7 +1,11 @@
 # Scrum Setup Document: RCHN Patient Intake and Scheduling System
+
 **Consultant:** Arianna McGhee
+
 **Role:** Associate Consultant, NovaTech Consulting
+
 **Engagement:** Riverside Community Health Network (RCHN)
+
 **Date:** October 7, 2026
 
 ---
