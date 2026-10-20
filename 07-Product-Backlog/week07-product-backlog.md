@@ -115,7 +115,10 @@
 ### Must Have Justification
 
 
-For our Must-Have priority, I selected RCHN-104 (Flag missing intake information, 3 pts), backed by our clinic intake coordinator user story. This item is essential for the current planning horizon because it directly supports our agreed RCHN delivery condition that we must have accurate, up-to-date information across all six clinic locations before full rollout. However, choosing this as a Must-Have doesn't automatically mean it has to be crammed into Sprint 1. We have to tackle this ticket in a deliberate, step-by-step structure—we need the core intake field skeleton completely established first before we can layer on automated validation and flagging conditions. Establishing this foundation ensures our intake staff aren't dealing with fragmented legacy data, giving us the reliable data quality required for sustainable multi-clinic operations.
+For our Must-Have priority, I selected RCHN-104 (Flag missing intake information, 3 pts), backed by our clinic intake coordinator user story. This item is essential for the current planning horizon because it directly supports our agreed RCHN delivery condition that we must have accurate, up-to-date information across all six clinic locations before full rollout. However, choosing this as a Must-Have doesn't automatically mean it has to be crammed into Sprint 1. 
+
+
+We have to tackle this ticket in a deliberate, step-by-step structure—we need the core intake field skeleton completely established first before we can layer on automated validation and flagging conditions. Establishing this foundation ensures our intake staff aren't dealing with fragmented legacy data, giving us the reliable data quality required for sustainable multi-clinic operations.
 
 
 ---
@@ -124,7 +127,10 @@ For our Must-Have priority, I selected RCHN-104 (Flag missing intake information
 ### Won't Have Rationale
 
 
-For our Won't Have priority, I selected RCHN-107 (Report cross-clinic wait times, 13 pts) and deliberately excluded it from the current planning horizon. We are not prioritizing cross-clinic wait time reporting and analytics right now because our immediate focus must be on establishing the core operational foundation—specifically locking down patient identity verification, contact updates, and standardized intake data (RCHN-101) first. We cannot accurately report across all six locations or analyze system-wide bottlenecks until we ensure that all incoming data across our clinic network is reliable and standardized. This item could be reconsidered in a future planning horizon once the core transactional intake fields are fully implemented, verified, and operational across all clinic locations.
+For our Won't Have priority, I selected RCHN-107 (Report cross-clinic wait times, 13 pts) and deliberately excluded it from the current planning horizon. We are not prioritizing cross-clinic wait time reporting and analytics right now because our immediate focus must be on establishing the core operational foundation—specifically locking down patient identity verification, contact updates, and standardized intake data (RCHN-101) first. 
+
+
+We cannot accurately report across all six locations or analyze system-wide bottlenecks until we ensure that all incoming data across our clinic network is reliable and standardized. This item could be reconsidered in a future planning horizon once the core transactional intake fields are fully implemented, verified, and operational across all clinic locations.
 
 
 ---
@@ -136,7 +142,10 @@ For our Won't Have priority, I selected RCHN-107 (Report cross-clinic wait times
 ### Persona Connection
 
 
-Looking back, my Week 3 persona (Marie, IT Support Staff) focused heavily on reducing daily support tickets and troubleshooting calls related to system fragmentation and appointment confirmation errors. While that persona targeted IT support, we can connect our backlog story RCHN-103 (Show appointment availability) directly to those findings about scheduling friction and unconfirmed appointment saves. The core research showed that staff and patients constantly struggled with fragmented scheduling views and not knowing if bookings went through properly, generating a massive administrative headache. By making clear schedule visibility and availability a core backlog item, we address that exact user need—eliminating the guesswork and manual booking double-checks that caused those daily support requests in the first place.
+Looking back, my Week 3 persona (Marie, IT Support Staff) focused heavily on reducing daily support tickets and troubleshooting calls related to system fragmentation and appointment confirmation errors. While that persona targeted IT support, we can connect our backlog story RCHN-103 (Show appointment availability) directly to those findings about scheduling friction and unconfirmed appointment saves. 
+
+
+The core research showed that staff and patients constantly struggled with fragmented scheduling views and not knowing if bookings went through properly, generating a massive administrative headache. By making clear schedule visibility and availability a core backlog item, we address that exact user need—eliminating the guesswork and manual booking double-checks that caused those daily support requests in the first place.
 
 
 ---
