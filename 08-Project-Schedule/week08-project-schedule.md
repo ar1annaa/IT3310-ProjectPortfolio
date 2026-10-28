@@ -1,7 +1,12 @@
 # Project Schedule: RCHN Patient Intake and Scheduling System
 **Consultant:** Arianna McGhee
+
+
 **Role:** Associate Consultant, Project Manager, NovaTech Consulting
-**Engagement:** Regional Care Health Network (RCHN)
+
+**Engagement:** RCHN
+
+
 **Date:** October 27, 2026
 
 ---
